@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[String Tips]]></title>
+        <description><![CDATA[String Tips]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 07 Jun 2016 20:51:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vivaldi Violin Concerto Op.3 No.6 for Violin and Piano]]></title>
+            <description><![CDATA[<article><h1>Vivaldi Violin Concerto Op.3 No.6 for Violin and Piano</h1><p>The 12 concerti that make up L'estro Armonico were composed in 1711. The A minor violin concerto Op. 3 No.6 is possibly the first Vivaldi concerto that violinist learn, I know it was mine!</p></article>]]></description>
+            <link>undefinedvivaldi-violin-concerto-op3-no6-for-violin-and-piano/index.html</link>
+            <guid isPermaLink="false">0f06ea4f-6df0-44ae-b799-3a37c2eff49c</guid>
+            <pubDate>Tue, 07 Jun 2016 20:51:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
