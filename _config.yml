@@ -2,6 +2,7 @@ name: String Tips
 favicon: null
 layout_spectrum: 0.49686808604747057
 typography_spectrum: 0.39529110374860466
+title: String Tips
 cta:
   domain: null
   bucket: null
