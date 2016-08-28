@@ -1,29 +1,41 @@
-name: String Tips
-favicon: null
-layout_spectrum: 0.49686808604747057
-typography_spectrum: 0.39529110374860466
-title: String Tips
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.4968680860474706
+title: String Tips
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.9089318425394595
+  brandStrength: 0.01581383077427745
+  rhythmicContrast: 0.8682486261241138
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.01581383077427745
-  lightness: 0.12890201504342258
-  saturation: 0.9089318425394595
-  rhythmicContrast: 0.8682486261241138
+  lightness: 0.1289020150434226
 purpose: []
+favicon: null
+name: String Tips
+typography_spectrum: 0.3952911037486047
